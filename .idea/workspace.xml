@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9faf46a-cfef-47e3-8c75-92be5cee6560" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="essential-scala" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YFbON6Zl9lKOJxn38xcLyy94xx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="3" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="essential-scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="essential-scala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="essential-scala [file:/Users/tiagomendes/workspace/essential-scala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="essential-scala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3165082513760" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3511448977" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+    <option name="useEclipseCompatibility" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9faf46a-cfef-47e3-8c75-92be5cee6560" name="Default Changelist" comment="" />
+      <created>1582541256417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582541256417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1519" y="357" key="#Project_Structure" timestamp="1582541378895">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1519" y="357" key="#Project_Structure/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582541378895" />
+    <state x="2138" y="410" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582905177608">
+      <screen x="0" y="23" width="3200" height="1230" />
+    </state>
+    <state x="2138" y="410" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1440.23.1440.877/0.23.3200.1230@0.23.3200.1230" timestamp="1582905177608" />
+    <state x="1772" y="587" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582644424588">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1772" y="587" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582644424588" />
+    <state x="1608" y="426" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582734450291">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1608" y="426" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734450291" />
+    <state width="1238" height="469" key="GridCell.Tab.0.bottom" timestamp="1582734487963">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487963" />
+    <state width="1238" height="469" key="GridCell.Tab.0.center" timestamp="1582734487962">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487962" />
+    <state width="1238" height="469" key="GridCell.Tab.0.left" timestamp="1582734487961">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487961" />
+    <state width="1238" height="469" key="GridCell.Tab.0.right" timestamp="1582734487962">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487962" />
+    <state width="1238" height="469" key="GridCell.Tab.1.bottom" timestamp="1582734487965">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.1.bottom/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487964" />
+    <state width="1238" height="469" key="GridCell.Tab.1.center" timestamp="1582734487964">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.1.center/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487964" />
+    <state width="1238" height="469" key="GridCell.Tab.1.left" timestamp="1582734487963">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.1.left/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487963" />
+    <state width="1238" height="469" key="GridCell.Tab.1.right" timestamp="1582734487964">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1238" height="469" key="GridCell.Tab.1.right/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734487964" />
+    <state x="1428" y="331" key="SettingsEditor" timestamp="1582734691978">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1428" y="331" key="SettingsEditor/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582734691978" />
+    <state x="1380" y="123" width="1080" height="1136" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582645871864">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1380" y="123" width="1080" height="1136" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582645871864" />
+    <state x="1280" y="23" width="1280" height="1336" key="com.intellij.ide.util.TipDialog" timestamp="1582541268227">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1280" y="23" width="1280" height="1336" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582541268227" />
+    <state x="1585" y="325" key="run.anything.popup" timestamp="1582718331191">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1585" y="325" key="run.anything.popup/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582718331191" />
+    <state x="1981" y="304" width="838" height="622" key="search.everywhere.popup" timestamp="1582914514075">
+      <screen x="0" y="23" width="3200" height="1230" />
+    </state>
+    <state x="1585" y="328" width="670" height="676" key="search.everywhere.popup/-1440.23.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1582728934232" />
+    <state x="1981" y="304" width="838" height="622" key="search.everywhere.popup/-1440.23.1440.877/0.23.3200.1230@0.23.3200.1230" timestamp="1582914514075" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="moduleName" value="essential-scala" />
+  </component>
+</project>
